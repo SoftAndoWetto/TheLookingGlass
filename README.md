@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="The%20Looking%20Glass%20V2.png" alt="The Looking Glass Banner" width="500"/>
+  <img src="The%20Looking%20Glass%20V2.png" alt="The Looking Glass Banner" width="350"/>
 </p>
 
 # TheLookingGlass 🔍
