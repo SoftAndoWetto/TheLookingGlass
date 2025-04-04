@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="The%20Looking%20Glass%20V2.png" alt="The Looking Glass Banner" width="500"/>
+</p>
+
 # TheLookingGlass 🔍
 
 An OSINT tool for investigating online targets using modular recon methods. Easily extensible and designed to be both practical and educational.
@@ -11,11 +15,11 @@ An OSINT tool for investigating online targets using modular recon methods. Easi
 
 ## ✨ Features
 
-- 📷 Instagram username lookup
-- 📧 Email account checker
-- ☎️ Phone number account checker
-- 🔑 API/Session key management
-- ⚙️ Modular and dynamic architecture
+- 📷 Instagram username lookup  
+- 📧 Email account checker  
+- ☎️ Phone number account checker  
+- 🔑 API/Session key management  
+- ⚙️ Modular and dynamic architecture  
 
 ---
 
@@ -30,7 +34,9 @@ An OSINT tool for investigating online targets using modular recon methods. Easi
 
 ```bash
 git clone https://github.com/SoftAndoWetto/TheLookingGlass.git
-cd TheLookingGlass```
+cd TheLookingGlass
+```
+
 Add your instagram sessionID token to the json file in order for some modules to work
 To run it, just use the "Run_Me.BAT" file. 
 
