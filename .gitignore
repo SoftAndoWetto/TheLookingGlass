@@ -1,0 +1,65 @@
+# Maven / Java build files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# IDE specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+*.orig
+
+# Environment / credentials
+
+# Output / results
+Targets/
+
+# Java compiled files
+**/target/classes/
+**/target/test-classes/
+**/target/generated-sources/
+**/target/maven-status/
+
+# Ignore build artifacts
+*.log
+*.out
+*.gz
+
+# Ignore dependency caches
+.m2/
+.gradle/
+build/
+
+# Ignore temporary test results
+*.test
+*.testdata
+*.result
+
+# Ignore coverage reports
+coverage/
+*.lcov
+*.coverage
+
+# Ignore compiled modules
+**/com/example/Modules/*/*.class
+src/main/TODO List.txt
